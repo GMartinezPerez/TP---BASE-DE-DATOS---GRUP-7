@@ -13,7 +13,7 @@ Adjuntammos el Link del gráfico en draw:
 
 https://drive.google.com/file/d/1e4bHI5FNwW-faE6vw-dnieX7sPDBwkJJ/view?usp=sharing
 
-Usuarios: Clientes registrados en el sistema.
+**Usuarios:** Clientes registrados en el sistema.
 
 Clase: Define la disponibilidad (Día, Hora, Capacidad máxima).
 
