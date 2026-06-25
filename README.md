@@ -22,9 +22,16 @@ Reservas: Tabla intermedia que vincula un usuario con una sesión específica, v
 Instructores: Define quién es el responsable técnico de esa sesión. 
 
 ## Diccionario de datos
-<img width="1116" height="1192" alt="Clases" src="https://github.com/user-attachments/assets/9f38ab00-528a-46cf-9492-049447f61465" />
-<img width="561" height="477" alt="Clientes" src="https://github.com/user-attachments/assets/5ad6b971-6523-4eb0-90f8-4697eecd7048" />
-<img width="591" height="287" alt="Instructores" src="https://github.com/user-attachments/assets/8809d071-177d-4721-96a1-1cf2144dd29a" />
+###Clientes
+<img width="1820" height="1080" alt="Clientes" src="https://github.com/user-attachments/assets/e69920a0-a9a6-486d-a794-9edba8f6c3a8" />
+###Instructores
+<img width="1820" height="1080" alt="Instructores" src="https://github.com/user-attachments/assets/6d2fec7c-dfd8-4fc0-abd7-8fdbe42d8c29" />
+###Clases
+<img width="1820" height="1080" alt="Clases (1)" src="https://github.com/user-attachments/assets/d200e70d-1bfb-46aa-b0c1-2f2d5d96b99a" />
+###Reservas
+<img width="1820" height="1080" alt="Reservas" src="https://github.com/user-attachments/assets/12f4359b-a377-4b50-8e22-c09145681146" />
+
+
 
 
 ## Justificación del Diseño y Consultas SQL
