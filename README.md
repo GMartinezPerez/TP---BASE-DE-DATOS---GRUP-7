@@ -11,7 +11,7 @@ El modelo se basa en tres tablas:
 
 Usuarios: Clientes registrados en el sistema.
 
-Sesiones: Define la disponibilidad (Día, Hora, Capacidad máxima).
+Clase: Define la disponibilidad (Día, Hora, Capacidad máxima).
 
 Reservas: Tabla intermedia que vincula un usuario con una sesión específica, validando la integridad del cupo.
 
