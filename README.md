@@ -22,21 +22,18 @@ Reservas: Tabla intermedia que vincula un usuario con una sesión específica, v
 Instructores: Define quién es el responsable técnico de esa sesión. 
 
 ## Diccionario de datos
-###Clientes
+Clientes
 <img width="1820" height="1080" alt="Clientes" src="https://github.com/user-attachments/assets/e69920a0-a9a6-486d-a794-9edba8f6c3a8" />
-###Instructores
+Instructores
 <img width="1820" height="1080" alt="Instructores" src="https://github.com/user-attachments/assets/6d2fec7c-dfd8-4fc0-abd7-8fdbe42d8c29" />
-###Clases
+Clases
 <img width="1820" height="1080" alt="Clases (1)" src="https://github.com/user-attachments/assets/d200e70d-1bfb-46aa-b0c1-2f2d5d96b99a" />
-###Reservas
+Reservas
 <img width="1820" height="1080" alt="Reservas" src="https://github.com/user-attachments/assets/12f4359b-a377-4b50-8e22-c09145681146" />
-
-
-
 
 ## Justificación del Diseño y Consultas SQL
 
 Elegimos una estructura donde la Capacidad reside en la entidad Sesiones. Esto nos permite cambiar la capacidad del local en el futuro sin modificar todo el histórico de reservas. La tabla Reservas actúa como un registro de reservas que garantiza la relación "muchos a muchos" entre usuarios y horarios.
 
-Las consultas están disponibles en las carpera .sql
+Las consultas están disponibles en las carpeta .sql de este repositorio
 
