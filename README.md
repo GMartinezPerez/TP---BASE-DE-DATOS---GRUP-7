@@ -22,7 +22,9 @@ Reservas: Tabla intermedia que vincula un usuario con una sesión específica, v
 Instructores: Define quién es el responsable técnico de esa sesión. 
 
 ## Diccionario de datos
-
+<img width="1116" height="1192" alt="Clases" src="https://github.com/user-attachments/assets/9f38ab00-528a-46cf-9492-049447f61465" />
+<img width="561" height="477" alt="Clientes" src="https://github.com/user-attachments/assets/5ad6b971-6523-4eb0-90f8-4697eecd7048" />
+<img width="591" height="287" alt="Instructores" src="https://github.com/user-attachments/assets/8809d071-177d-4721-96a1-1cf2144dd29a" />
 
 
 ## Justificación del Diseño y Consultas SQL
